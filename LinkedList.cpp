@@ -1,7 +1,7 @@
 /*
- * LinkedList.h
+ * LinkedList.cpp
  *
- *  Created on: Mar 22, 2013
+ *  Created on: oct 14, 2013
  *      Author: Faisal
  */
 
